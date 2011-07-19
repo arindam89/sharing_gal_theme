@@ -1,0 +1,299 @@
+a {
+    color: #3B6EB4;
+    font-weight: bold;
+    text-decoration: none;
+}
+body {
+    
+    color: #333333;
+    font-family: Cantarell,"Droid Sans",Verdana,sans-serif;
+    font-size: 0.8em;
+    padding: 0 0 40px;
+}
+
+h3.main-section-hl {
+    font-size: small;
+    margin-top: 1em;
+}
+#what-can-you-do h3 {
+    color: #3C6EB4;
+}
+
+
+#site-heading h2 span#logo{
+  background: url("../images/logo.png");
+  text-indent: -9999px;
+  width:330px;
+  height:80px;
+  margin-top: -10px;
+  display:block;
+}
+
+#header {
+    background: url("../images/header.png") repeat-x scroll 0 0 transparent !important;
+    padding-bottom: 10px;
+    padding-top: 15px;
+	font-family: Arial;
+	color: #fff;
+	height: 110px;
+}
+
+#main-nav {
+    background: url("../images/bg_main-nav.png") repeat-x scroll 0 0 transparent !important;
+    height: 30px;
+    padding-bottom: 5px;
+    padding-top: 15px;
+}
+
+#main-nav a {
+    color: #ECECEC;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#main-nav div {
+    background-color: inherit !important;
+    text-align: center;
+}
+#main-nav li {
+    display: inline;
+	margin-right:20px;
+}
+#main-nav a {
+    /*color: #ECECEC;*/
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#nav-menu li {
+    font-size: 1.2em;
+    margin-left: 3em;
+    margin-right: 3em;
+    text-shadow: 0.5px 0.5px 0.5px #222222;
+}
+#main-nav li {
+    display: inline;
+}
+
+
+#site-content {
+	padding-top:20px;
+	padding-bottom: 5em;
+}
+
+
+#big-links-bar {
+    background: none repeat scroll 0 0 #777777;
+}
+
+#big-links-bar a {
+    background: none repeat scroll 0 0 transparent;
+    color: white;
+    display: inline-block;
+    font-size: 1em;
+    margin-top: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 0.5em;
+    text-align: center;
+}
+#big-links-bar div.middle {
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+#big-links-bar div {
+    text-align: center;
+    width: 33%;
+}
+#big-links-bar div:hover, #big-links-bar a:hover, #big-links-bar h4:hover {
+    color: #A0C3F4 !important;
+}
+#big-links-bar h4 {
+    color: white;
+    font-family: Comfortaa,sans-serif;
+    font-size: 1.6em;
+    font-weight: normal;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+
+
+.main-page-section {
+    background-color: #C4D0E3;
+    color: #3C6EB4;
+    margin-bottom: 1px;
+    margin-top: 1px;
+    padding: 10px;
+    text-align: center;
+}
+.main-page-section h2{
+	margin-bottom:0px;
+}
+
+#main-search-box {
+  padding:5px 10px;
+  margin:10px;
+  width:45%;
+ }
+
+#main-search-submit {
+	padding:1px 8px 4px 8px;
+	font-family: Comfortaa,sans-serif;
+	font-size: 1.2em;
+
+}
+
+#four-fs img {
+    display: block;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#four-fs h4 {
+    color: #666666;
+    font-size: 1.1em;
+    text-align: center;
+    text-transform: uppercase;
+}
+#four-fs {
+    background: -moz-linear-gradient(center bottom , #EAEFF7, white) repeat scroll 0 0 transparent;
+    clear: both;
+    display: block;
+    font-size: 0.9em;
+    margin-bottom: 0;
+    padding-bottom: 1em;
+}
+#four-fs p {
+    margin-left: 10px;
+    min-height: 5em;
+}
+#what-can-you-do img {
+    float: left;
+    margin-right: 10px;
+}
+#what-can-you-do h3 {
+    color: #666666;
+}
+#what-can-you-do h3 {
+    color: #3C6EB4;
+}
+#features-content img {
+    float: left;
+    margin-right: 15px;
+}
+#features-content .row {
+    margin-bottom: 2.5em;
+}
+#features-content #features-icons img {
+    float: none;
+    margin-right: 0;
+}
+#features-icons {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+#features-icons h5 {
+    font-size: 0.9em;
+    margin-top: 5px;
+    min-height: 50px;
+}
+#features-icons p {
+    min-height: 150px;
+}
+#features-icons a {
+    font-size: 0.9em;
+}
+#right-sidebar {
+	font-family:Verdana,sans-serif;
+}
+
+
+#right-sidebar h4 {
+    color: #555555;
+    font-size: 1em;
+    margin-top: 1em;
+    text-transform: uppercase;
+}
+
+#right-sidebar ul.checkmark-list {
+    list-style: disc outside url("/static/images/icon-checkmark.png");
+}
+fedora960.css (line 1160)
+#right-sidebar ul {
+    margin-top: 1em;
+}
+
+
+#bottom {
+    background: url("../images/footer-trim.png") repeat-x scroll 0 0 transparent;
+    margin: 0;
+    padding: 30px 0;
+	padding-bottom: 50px;
+    width: 100%;
+	background-color: #E6E6E6;
+	font-family: Verdana,sans-serif;
+}
+
+#bottom .container_12 {
+    background-color: #E6E6E6;
+}
+
+
+#bottom a {
+    font-weight: normal;
+}
+#bottom a:hover {
+    background-color: #FCF7D5;
+    color: black !important;
+}
+#footer {
+    background-color: #E6E6E6;
+    background-image: none;
+    color: #4D4D4D;
+    font-size: 0.85em;
+    padding-bottom: 15px;
+}
+#footer a {
+    color: #3771C8;
+}
+#footer .rh-logo {
+    float: left;
+    margin-right: 15px;
+}
+#footer p {
+    margin: 0;
+}
+#footer .disclaimer {
+    font-style: italic;
+}
+#footer ul {
+    list-style: none outside none;
+    margin-bottom: 0.8em;
+}
+#footer li.first {
+    border-left: medium none;
+}
+#footer li {
+    border-left: 1px solid #AAAAAA;
+    display: inline;
+    margin-left: -1px;
+    padding: 0 0.75ex;
+}
+.sitelinks {
+    color: #808080;
+    line-height: 1.6;
+}
+.sitelinks a {
+    color: #808080;
+    text-decoration: none;
+}
+.sitelinks dt {
+    font-weight: bold;
+}
+
+#footer .el-logo {
+    float: left;
+    margin-right: 15px;
+}
+
