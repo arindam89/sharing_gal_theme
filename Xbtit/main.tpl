@@ -41,7 +41,7 @@
          <div class="container_16">
             <ul id="nav-menu">
                <li>
-               <a href="">Home</a>
+               <a href="index.php">Home</a>
                </li>
                <li>
                <a href="">Categories</a>
@@ -92,7 +92,7 @@
     <TABLE align="center" width="982" cellpadding="0" cellspacing="0" border="0">
       <TR>
         <TD valign="top">
-  <div id="slideIt">
+  <!-- <div id="slideIt">
     <tag:main_slideIt />
     <div id="header1">
       <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
@@ -102,7 +102,7 @@
           <td valign="top" width="5" rowspan="2"></td>
         </tr>
       </table>
-    </div>
+    </div> -->
   </div>
   <script type="text/javascript">
     var collapse2=new animatedcollapse("header1", 800, false, "block")
@@ -198,7 +198,7 @@
             <div class="clear"></div>
             <div id="footer" class="grid_12">
                <a href="#">
-                  <img class="el-logo" src="images/footer.png"/>
+                  <img class="el-logo" src="style/sharing_galaxy/images/footer.png"/>
                </a>
                <p class="sponsor">Sharing Galaxy is brought to you by Earthlink Communications</p>
                <p>&copy; 2011 Arindam Paul, Freelance Web Design. </p>
